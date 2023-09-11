@@ -1,0 +1,14 @@
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\bin\Debug\net6.0\Programma tochki vosstanovlenia.exe
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\bin\Debug\net6.0\Programma tochki vosstanovlenia.deps.json
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\bin\Debug\net6.0\Programma tochki vosstanovlenia.runtimeconfig.json
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\bin\Debug\net6.0\Programma tochki vosstanovlenia.dll
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\bin\Debug\net6.0\Programma tochki vosstanovlenia.pdb
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.AssemblyInfoInputs.cache
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.AssemblyInfo.cs
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.csproj.CoreCompileInputs.cache
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.dll
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\refint\Programma tochki vosstanovlenia.dll
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.pdb
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\Programma tochki vosstanovlenia.genruntimeconfig.cache
+C:\Users\yuras\source\repos\Programma tochki vosstanovlenia\Programma tochki vosstanovlenia\obj\Debug\net6.0\ref\Programma tochki vosstanovlenia.dll
